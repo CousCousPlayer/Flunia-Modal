@@ -2,11 +2,11 @@
 
 ===README===
 
-1. WITH WHICH VERSION OF jQUERY DOES FLUNIA MODAL WORK?
+1 WITH WHICH VERSION OF jQUERY DOES FLUNIA MODAL WORK?
 
 Flunia Modal works with jQuery 1.8 and up.
 
-2. HOW CAN I INCLUDE FLUNIA MODAL?
+2 HOW CAN I INCLUDE FLUNIA MODAL?
 
 Include the fluniamodal-0.1.min.js after jQuery(http://jquery.com/download/)
 and the CSS files so also after fluniamodal-0.1.min.css.
@@ -18,7 +18,7 @@ and the CSS files so also after fluniamodal-0.1.min.css.
   <script type="text/javascript" src="jQUERY"></script>
   <script type="text/javascript" src="fluniamodal-0.1.min.js"></script>
   
-3. HOW CAN I USE FLUNIA MODAL?
+3 HOW CAN I USE FLUNIA MODAL?
 
 In the $(document).ready(function() you can call Flunia Modal on that object 
 when clicking on it that the Modal should appear. Then you can customize the options for this one, for more see 4.
@@ -36,7 +36,7 @@ when clicking on it that the Modal should appear. Then you can customize the opt
     
   });
   
-4. WHAT ARE THE AVAILIBLE OPTIONS OF FLUNIA MODAL?
+4 WHAT ARE THE AVAILIBLE OPTIONS OF FLUNIA MODAL?
 
 title
   What the title should be.
